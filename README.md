@@ -21,3 +21,6 @@ Announcements
 Automatic Post Notifications
 <br/>
 
+## Contact
+If there are any questions, contact me at https://qwaksite.jusimpoy.workers.dev/ <br/>
+All are welcome to give feedback and make changes, following the LICENSE attached
